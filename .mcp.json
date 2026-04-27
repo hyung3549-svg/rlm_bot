@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "github": {
+      "type": "http",
+      "url": "https://api.githubcopilot.com/mcp/",
+      "allowedRepositories": [
+        "hyung3549-svg/rlm_bot",
+        "gimgimchamsae-oss/Kimsbot"
+      ]
+    }
+  }
+}
